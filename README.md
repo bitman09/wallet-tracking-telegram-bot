@@ -2,9 +2,9 @@
 This Solana Wallet Tracking Telegram bot for tracking wallet activities, transactions, and interactions with the Pump.fun platform.
 
 ## Contact Info
-Telegram: [@dwlee918](https://t.me/@dwlee918)
+Telegram: [@diasibt](https://t.me/@diasibt)
 
-X: [@derricklee918](https://x.com/derricklee918)
+X: [@DiasIbt101](https://x.com/DiasIbt101)
 
 ## Key Features
 - Tracking Solana wallet transactions that interact with the Pump.fun
