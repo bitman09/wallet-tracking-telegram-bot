@@ -6,6 +6,9 @@ Telegram: [@diasibt](https://t.me/@diasibt)
 
 X: [@DiasIbt101](https://x.com/DiasIbt101)
 
+LinkedIn: [@dias-ishbulatov](https://www.linkedin.com/in/dias-ishbulatov/)
+
+
 ## Key Features
 - Tracking Solana wallet transactions that interact with the Pump.fun
 - Monitor wallet activities and provide real-time updates
