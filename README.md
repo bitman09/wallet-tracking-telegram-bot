@@ -99,5 +99,3 @@ export const SOLANA_RPC_URL = process.env.SOLANA_RPC_URL || "";
 export const TRACKED_WALLETS_SIZE = 150;
 ```
 
-
-If you need more technical support and development inquires, you can contact me.
