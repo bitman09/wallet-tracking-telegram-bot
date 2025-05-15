@@ -2,9 +2,9 @@
 This Solana Wallet Tracking Telegram bot for tracking wallet activities, transactions, and interactions with the Pump.fun platform.
 
 ## Contact Info
-LinkedIn: [@Ljubomir Igic](https://www.linkedin.com/in/ljubomir-igic-6a9615340)
+LinkedIn: [@dias-ishbulatov](https://www.linkedin.com/in/dias-ishbulatov)
 
-Telegram: [@Ljubomir Igic](https://t.me/@ljubomir_igic)
+Telegram: [@bitman09](https://t.me/@bitman09)
 
 
 ## Key Features
